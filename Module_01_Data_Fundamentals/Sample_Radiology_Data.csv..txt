@@ -1,0 +1,11 @@
+PatientID,Modality,StudyDate,Dose_mSv,Technologist,Status
+P001,X-Ray,2026-02-01,0.1,Sophia,Complete
+P002,CT Scan,2026-02-01,15.5,Ifeanyi,Complete
+P003,MRI,2026-02-01,0,Juliet,Incomplete
+P001,X-Ray,2026-02-01,0.1,Precious,Complete
+P004,ct scan,2026-02-02,22.0,Idara,Complete
+P005,X-Ray,2026-02-02,0.2,Omeke,Complete
+P006,CT Scan,2026-02-02,8.4,Juliet,Complete
+P007,Ultrasound,2026-02-03,0,Agada,Complete
+P008,X-Ray,2026-02-03,45.0,Joseph,Complete
+P009,MRI,2026-02-03,0,Juliet,Complete
